@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "company": "123 Designs",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 2,
+        "name": "John Grass",
+        "company": "Genie Inc.",
+        "phone": "444-555-4444"
+    },
+    {
+        "id": 3,
+        "name": "John Waters",
+        "company": "Aqua Pens",
+        "phone": "444-555-9999"
+    }
+]
